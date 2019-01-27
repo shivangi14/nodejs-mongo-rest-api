@@ -1,0 +1,4 @@
+/.idea
+/node_modules
+nodejs-mongo-rest-api.iml
+package-lock.json
